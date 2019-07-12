@@ -19,4 +19,6 @@ SwiftUI Projects and Links
 5. [PubNub iOS Swift SDK](https://www.pubnub.com/docs/swift/pubnub-swift-sdk)
 6. [Cider - The Missing Apple Music SDK. Written in Swift - GitHub](https://github.com/scottrhoyt/Cider)
 7. [Alfian Losari, iOS Developer - Github] (https://github.com/alfianlosari?after=Y3Vyc29yOnYyOpK5MjAxOC0wMS0wM1QxMTo1ODozMiswOTowMM4G6gVj&tab=repositories)
+8. [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction)
+9. [Adding Content to Apple Music - Github](https://github.com/HumApp/MusicKit)
 
